@@ -1,1 +1,1 @@
-FuchProg Kolomiychenko Bogdan IPZ-43 Variant 8
+FuncProg Kolomiychenko Bogdan IPZ-43 Variant 8
